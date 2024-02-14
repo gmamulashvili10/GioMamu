@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giorgi</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
-[![linkedin](https://www.linkedin.com/in/giorgi-mamulashvili-0a7883261/)]
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmamulashvili10&label=Profile%20views&color=0e75b6&style=flat" alt="gmamulashvili10" /> </p>
 
