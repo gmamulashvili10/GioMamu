@@ -4,11 +4,11 @@
 <h3 align="left">👩‍💻  About Me:</h3>
 <img align="right" height="150" src="https://eportfolio.utm.my/artefact/file/download.php?file=963595&view=185127" />
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **React, Tailwind, RestAPI**
+- 💬 Ask me about **JavaScript, Tailwind**
 
-- 📫 How to reach me **davidmikeladze00@gmail.com**
+- 📫 How to reach me **giomamula20040211@gmail.com**
 
 ###
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <div align="left">
-  <a href="https://www.linkedin.com/in/david-mikeladze-927406264/" target="_blank">
+  <a href="https://www.linkedin.com/in/giorgi-mamulashvili-0a7883261/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
